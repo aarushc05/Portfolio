@@ -24,6 +24,11 @@ ClusterTrader clusters S&P 500 stocks by their RSI (Relative Strength Index) pat
 | `generate_best_performer.py` | Creates oracle portfolio using best method per period |
 | `streamlit_app.py` | Interactive dashboard for visualizing backtest results |
 
+
+## To Run Locally
+
+First run `download_all_sp500.py` which will generate a .pkl file necessary to run the streamlit application.
+
 ## Setup
 
 ```bash
