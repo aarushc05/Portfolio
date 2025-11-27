@@ -4,6 +4,8 @@ A collection of projects in computer vision, machine learning, and natural langu
 
 **Author:** Aarush Chhiber
 
+Google Drive (identical): https://drive.google.com/drive/folders/11_foYsqRGjQtdtkI0Z8YEDUO-wD6_amT?usp=sharing
+
 ---
 
 ## Computer Vision
