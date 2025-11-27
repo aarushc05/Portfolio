@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python virtual environments (this is usually the culprit!)
+venv/
+env/
+.env
+.venv/

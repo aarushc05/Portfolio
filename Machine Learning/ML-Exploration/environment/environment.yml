@@ -1,0 +1,22 @@
+name: ml_portfolio
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy=1.24
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - tqdm
+  - requests
+  - pillow
+  - rich
+  - jupyter
+  - ipykernel
+  - pip:
+    - tensorflow==2.15.0
+    - torch>=2.0.0
+    - torchvision>=0.15.0
+    - opencv-python-headless
